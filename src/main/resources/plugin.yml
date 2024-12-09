@@ -1,0 +1,13 @@
+name: BankAPI
+version: '1.0.0'
+main: org.cristalyneplugin.bankAPI.Main
+api-version: '1.21'
+authors: [ Cristalyne ]
+description: Bank API
+website: https://github.com/Cristalyne
+
+commands:
+  bankapi:
+    description: turn off/on the plugin
+    permission: OP
+    permission-message: §8[§9BankAPI§8] §cYou don't have enough permission to execute this command!

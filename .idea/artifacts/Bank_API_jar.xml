@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bank API:jar">
+    <output-path>$USER_HOME$/Documents/Local Server (spigot)/plugins</output-path>
+    <root id="archive" name="Bank API.jar">
+      <element id="module-output" name="BankAPI" />
+    </root>
+  </artifact>
+</component>
